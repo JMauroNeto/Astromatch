@@ -1,7 +1,7 @@
 
 # Astromatch
 
-Esse projeto foi um projeto feito durante o curso de Desenvolvimento Web Full Stack da Labenu. 
+Esse projeto foi um projeto feito na 9ª semana do curso de Desenvolvimento Web Full Stack da Labenu. 
 É um projeto inspirado no Tinder, utilizando uma API própria da Labenu.
 
 
